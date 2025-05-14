@@ -115,5 +115,5 @@ Data validation implemented
 Feel free to fork this repo or raise issues for feedback, improvements, or contributions.
 
 ### Contact
-This project was done as a part of coursework under the guidance of Prof. Zimeng Lyu at Rochester Institute of Technology.
+This project was done as a part of coursework under the guidance of Prof. Zimeng Lyu at Rochester Institute of Technology by Amogh Naik.
 
