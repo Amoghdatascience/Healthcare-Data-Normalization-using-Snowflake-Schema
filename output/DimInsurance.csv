@@ -1,0 +1,555 @@
+insurance_id,patient_id,insurance_payer_name,insurance_policy_number,insurance_group_number,insurance_plan_type
+00c9ceba,89b2e6ba,George-Lawrence,c1a6433e-13c,4f6fca0b,Medicare
+0134f790,52b18b84,Lynch-White,0b5a06ca-bcc,04b81821,Medicare
+013a18df,d5e20a34,Lynch-White,22b5b638-a85,f28240e0,Medicare
+024110c2,ccf4b051,George-Lawrence,67bc1f55-622,f741a1bd,HMO
+027a52d9,9a157824,Lynch-White,ff71efee-ce5,53c774e8,HMO
+02c2059b,49a79069,Fernandez-Gregory,bad007ee-5b8,8af9061b,Medicare
+02f712c5,a07ad88a,George-Lawrence,a08f011e-266,8419607a,HMO
+0333f572,49275569,George-Lawrence,435803d6-e31,1d9d6396,Medicare
+04d5da49,21d2fe71,George-Lawrence,b369c694-4cd,466cb949,Medicaid
+0673cffc,4843fcba,Fernandez-Gregory,dd62c798-8c0,88aed70d,Medicaid
+06a039f5,e3fa1572,Watkins and Sons,edcfe816-a31,96bef35a,Medicare
+08260b3c,18ac40f1,Fernandez-Gregory,b7d8374d-c48,bc322353,Medicare
+08a50888,9476431c,Lynch-White,997f01ac-de9,a34a5c80,PPO
+08fb2428,1a8f9219,George-Lawrence,318d4604-df2,96799c16,Medicare
+098a9129,c8be14d4,Watkins and Sons,23d712b0-a82,bbe5f699,Medicare
+0a4754ce,544593e3,Watkins and Sons,a8bbcc12-096,e624aa4e,Medicare
+0a565617,2b1ab5f4,Fernandez-Gregory,5bc58efd-d97,342ce076,Medicaid
+0a616371,bc620ffc,Fernandez-Gregory,298a6a08-d8a,a73138f4,Medicaid
+0b19336f,f5cdf396,Watkins and Sons,6c6121d0-c9b,3a13ebce,PPO
+0be20144,5c71fccb,Fernandez-Gregory,5d33bf08-a18,3e240d3d,Medicare
+0c0f2623,e5a99b66,Fernandez-Gregory,4651e0d6-8db,bc66db30,PPO
+0d53e705,b7df92cb,Watkins and Sons,3e099b27-41d,a612dc52,HMO
+0d74137b,b240d849,Lynch-White,a85683ff-72c,fcb3f401,HMO
+0e3fcf05,2601f7a7,Lynch-White,128d2b62-896,6fee1b8e,Medicare
+0e623faf,f132aceb,"Gallegos, Gaines and Salazar",8d993fca-6d3,40817c5c,Medicare
+0e910c23,dcf3f6f2,Watkins and Sons,10d516b3-739,35afe523,PPO
+0ea31b94,3a0cea62,"Gallegos, Gaines and Salazar",f85946b9-b69,f113b818,Medicaid
+0f167129,c05125f9,Lynch-White,e9335f77-26f,fff8db98,HMO
+0f3f3ca0,d7e0d75c,George-Lawrence,be826689-faa,73084066,HMO
+0f55776e,fd737676,Lynch-White,6481cb72-c5e,6d6e937a,HMO
+0fbc0c2c,4ccec047,"Gallegos, Gaines and Salazar",306cf9ac-6ba,c5d0951b,PPO
+10e66e32,cbeec3e9,"Gallegos, Gaines and Salazar",ab9ba0a2-5e7,9cdbf293,Medicare
+1146f2f8,fb60a0bf,Fernandez-Gregory,b9cb88ff-f0a,830de7fb,HMO
+11f99d6c,b1ebb064,George-Lawrence,4689a922-905,13ce5572,HMO
+120d114a,907f6e05,Watkins and Sons,4ec2564f-637,1e6379f2,PPO
+122004c6,d683f694,Fernandez-Gregory,30509492-c26,df137539,Medicaid
+150aaff8,05418a71,George-Lawrence,b6aa84f2-ccc,83e14a4f,Medicaid
+15b5d1f7,0dd3f7ce,Fernandez-Gregory,24a452da-6cb,bab21a9c,PPO
+161a9659,c229d088,Watkins and Sons,368a98a0-d86,a3ab38a6,HMO
+174cf8ac,1b5c36b6,Lynch-White,39b3fbac-938,3e65dd90,HMO
+17618d0a,558dbdfb,Fernandez-Gregory,ea15bb76-2ae,8074675c,PPO
+17c41252,22ded725,George-Lawrence,314d698b-c25,86a5b354,HMO
+17c975b3,922912f4,George-Lawrence,9c5df411-0b8,ee55b2e5,Medicaid
+180e14b0,6bf746a4,Watkins and Sons,9a5b9051-a3b,8fe69396,Medicare
+188ca183,284d0a7d,Watkins and Sons,db919ca7-2a1,7165284a,PPO
+18b7f49b,1045fcb7,Watkins and Sons,8aabb1cb-d64,bdc1e029,HMO
+19a1a6d3,59afca02,Lynch-White,6303a8d9-f29,dec63aa6,Medicare
+19b6a41f,52e2783e,Fernandez-Gregory,67917298-383,02cbf645,PPO
+1a04e39c,52c562cc,Lynch-White,6cbe56e7-11a,7e6b6b7a,HMO
+1a31da5b,68e96c89,Watkins and Sons,6267a6a6-a10,8e3e5389,HMO
+1a6a569e,34992ee3,Lynch-White,fbe5cf41-a65,6ff916d4,HMO
+1ae96308,7a6116f5,Watkins and Sons,c126ee15-4f9,7f5aa17c,HMO
+1b5b523d,41ad8614,"Gallegos, Gaines and Salazar",db508786-56e,b706c777,Medicare
+1b738686,af73fecf,"Gallegos, Gaines and Salazar",12cce661-c7f,42c33579,PPO
+1c028083,a0c17f75,Fernandez-Gregory,cb79a95a-3da,843bf960,HMO
+1c281f77,0cfa58d9,Fernandez-Gregory,0bade9ec-a86,9a3e01e5,HMO
+1ca0bf4b,57b23269,Fernandez-Gregory,aace2a0d-0f5,d3ee7cec,HMO
+1cc80c7e,b26432d5,"Gallegos, Gaines and Salazar",39f119a2-418,5a6dc0ac,PPO
+1cfef158,2d8c8065,George-Lawrence,8b1bb259-5fa,f635f24d,Medicare
+1efb84c6,eea89167,Fernandez-Gregory,479bd1ef-b0b,e700ec49,PPO
+1f65ae26,5c3f5451,George-Lawrence,c0a2dc95-141,2d6197df,Medicaid
+1f6ef9a0,4bbaa0dc,"Gallegos, Gaines and Salazar",dde50a40-1bc,8ba88796,Medicare
+1fe184a0,2aab267c,Fernandez-Gregory,b0a6a3e9-572,b037e199,Medicare
+208beaf9,c04f3c50,Lynch-White,602238e4-470,c0b62560,Medicaid
+2156bcab,11f2ab74,Watkins and Sons,289fe19f-549,fa1b6b15,Medicare
+2204af42,466717c6,"Gallegos, Gaines and Salazar",5698b9c0-04d,97510de9,Medicaid
+2275de3e,de8ac9d1,Lynch-White,2b24d6c4-b2a,4a410c67,HMO
+24134659,8a343031,George-Lawrence,5f60f165-bc2,d91de9b2,Medicaid
+25fb4add,ca62789f,George-Lawrence,b61b20d7-659,e4efb62f,Medicaid
+2779bab9,2d1e655e,George-Lawrence,0da0e10b-05f,cabd7fff,Medicare
+2794d0e9,0aa1177d,Lynch-White,a99a603e-7fe,d413e3d7,PPO
+27aba74a,fc9710fb,George-Lawrence,5ce025b4-e9d,944a5d67,Medicare
+28ce5b55,358fea3c,George-Lawrence,fb083943-325,0faacc55,PPO
+296f9acf,f1cbaf3e,Fernandez-Gregory,b9f14a75-84e,4496e817,HMO
+2adeeba8,2e8ac419,Watkins and Sons,226a1ca9-15f,4f8af8f6,PPO
+2c1a991d,9320e47d,"Gallegos, Gaines and Salazar",ca5a3465-b19,1361541b,HMO
+2da42146,03ddd07e,Fernandez-Gregory,7ee78bb1-0a9,2f8bb6f6,HMO
+2dd411c1,728f6291,George-Lawrence,78f61456-6e5,77845233,PPO
+2e234c76,2119140b,Fernandez-Gregory,50edc7c7-845,20b9d5f6,PPO
+2e70cb28,d976797a,George-Lawrence,f6a09210-3f6,eb91db9b,PPO
+2e93a502,40b2f169,Lynch-White,52bde975-743,cf39f497,HMO
+2e9bc0f8,34735620,Fernandez-Gregory,b94f08f6-6b6,fdedcaa6,HMO
+2f15d8f2,2fbbb15c,Lynch-White,f566ef14-e7f,53423256,PPO
+2f21bdd6,755ae431,George-Lawrence,39f78452-af4,3bfd5348,HMO
+2f956502,debecac5,Watkins and Sons,d866da07-d84,471fc774,HMO
+2fa3971b,88bd5c88,Lynch-White,09044cf5-f7f,b0396682,PPO
+2fbd01f4,f53e2cf4,Watkins and Sons,bc8d09d7-3e3,44b97bce,Medicaid
+302fb0b9,7123b3e7,Lynch-White,45b14428-9e8,d9d4472c,PPO
+31125fdd,1b06cb08,Lynch-White,1a276bad-a2c,af7cecb8,HMO
+31540106,08473399,Lynch-White,210376d8-5d0,629358d9,HMO
+319b8a96,99984501,Fernandez-Gregory,f1c5b5cc-c5b,2afc37b8,Medicare
+31b22d2f,02fe27c5,Fernandez-Gregory,b235c622-f90,b31247d1,Medicaid
+32a0b424,ab87b2d7,"Gallegos, Gaines and Salazar",f3b86040-e8a,825e83b6,PPO
+334864fc,5b70069f,Fernandez-Gregory,67218831-4a5,f44b2792,HMO
+341d55ae,31de44ad,Watkins and Sons,cc5ef26e-e4a,55c2ed1d,PPO
+347fac08,2f93a419,Fernandez-Gregory,4c57b74b-94e,d94ec7d7,PPO
+34a3af64,308f1231,Watkins and Sons,e71b7d10-eca,790e89e7,PPO
+350a7892,a9dc88f3,Fernandez-Gregory,e9e27bd7-d0f,a2288cab,HMO
+35173276,11ffcdac,Fernandez-Gregory,1ac5182b-6e8,065b589d,HMO
+3517f988,323f374e,Watkins and Sons,91b8103b-b46,71d004d2,Medicaid
+3575e5b6,4f1db798,Watkins and Sons,ace02d95-e9a,0be473e1,Medicaid
+35984250,e6c3156a,George-Lawrence,4ecd6967-a6f,b07a2d25,PPO
+35d7bf07,a8e425d3,Fernandez-Gregory,de52d763-1a8,61e9a741,Medicaid
+36530da7,84c40a26,George-Lawrence,ded4f6a1-b25,e2761ebb,Medicare
+36660027,82cadc82,Lynch-White,2ae8e698-a20,afde7848,Medicare
+374e79f0,1e882c72,Fernandez-Gregory,7d7a8e2a-625,5071d707,HMO
+3765d53b,bece8608,"Gallegos, Gaines and Salazar",06b6461c-727,05153e59,PPO
+376cee01,c638cc8b,"Gallegos, Gaines and Salazar",c5e224f5-de1,407d8f57,PPO
+37b66c48,c7ac9ad0,Lynch-White,5b2ac079-7d0,a321e14f,Medicare
+37c73ddf,dfe9a03c,Fernandez-Gregory,f9134d49-247,cb5601db,Medicaid
+3810be1d,1ed4e610,Watkins and Sons,fa5ddce2-b32,28ec7cf9,HMO
+382dd500,7f2fc33a,Fernandez-Gregory,b650652b-299,34115170,HMO
+384a310d,8eb3801f,Fernandez-Gregory,025a019b-f76,fc2b15b0,Medicaid
+38649dc5,b2a7458c,George-Lawrence,b6646a50-eba,e5837076,PPO
+3870a6e9,5d07ff72,"Gallegos, Gaines and Salazar",c0f00a7b-78d,395dacc3,PPO
+38caa769,3be97b66,Fernandez-Gregory,b1ecc4f7-000,d1e69cb0,Medicaid
+394ee218,0f58b9b8,"Gallegos, Gaines and Salazar",8e347c9c-7ea,8acf48af,PPO
+396f5da0,e95727be,"Gallegos, Gaines and Salazar",57f75db8-3ce,270ccf0d,Medicare
+397eb995,52354209,Lynch-White,8f568cd4-215,06b4ffbb,PPO
+3a2a9382,dbe64874,Watkins and Sons,01b65da8-358,6f28bf53,HMO
+3a4d548b,7dc6b07a,"Gallegos, Gaines and Salazar",67ed786a-1ed,f4971b4d,PPO
+3ae2329f,d62a352b,"Gallegos, Gaines and Salazar",a393671a-197,4f9624db,Medicare
+3b5a638e,2ad843fe,"Gallegos, Gaines and Salazar",70217b31-132,62b75b18,HMO
+3bb3c378,086702b5,"Gallegos, Gaines and Salazar",dca07949-2e2,f5018a25,HMO
+3bdb9f0e,8d1f512a,Fernandez-Gregory,ae28f64e-72b,56074818,Medicaid
+3cf30e9f,35f6761e,George-Lawrence,4a1fbb6d-e8d,786912f4,Medicaid
+3d9c2098,2016a246,George-Lawrence,240b338f-c55,0c28d8cb,HMO
+3e2cc638,bd9d34f9,"Gallegos, Gaines and Salazar",1ba3dc8c-f7b,a792cf8f,Medicare
+3e38ea46,8bc8b41c,George-Lawrence,04793a6c-dd1,88c6160c,Medicare
+3e640292,0905b861,"Gallegos, Gaines and Salazar",b725519b-5be,34a06b6b,PPO
+3eb6008d,5e1a63ce,"Gallegos, Gaines and Salazar",5b634861-3eb,e759de9f,Medicaid
+3f0f97c7,02711826,Watkins and Sons,5eeaef3e-ca1,26392310,HMO
+3f33f1e5,2acbc7bf,George-Lawrence,0c97d39e-726,d79e07e4,Medicare
+3f800dfc,2711fbe1,Watkins and Sons,eae2fe32-424,067670b8,HMO
+3f805102,45c4a535,"Gallegos, Gaines and Salazar",02a43b15-777,2089a840,Medicaid
+3fbe11a6,79f2fa7a,Watkins and Sons,4773c423-94e,7842e468,Medicare
+408cc1ec,b4c18ee3,"Gallegos, Gaines and Salazar",8ad34dad-156,9c2acc98,Medicare
+40c0b38b,ffb27d43,Lynch-White,dfdf6729-c37,f914fb0f,HMO
+4142eab1,c77e99ef,Watkins and Sons,c741a5ff-a85,707ca6ea,Medicaid
+41e8de2e,2f7c55d7,"Gallegos, Gaines and Salazar",b7611378-deb,297a36dc,PPO
+42f46cc3,e56cd0f5,Fernandez-Gregory,fa30a6c9-d1c,05db483f,Medicaid
+4315e486,8a1ebfaf,George-Lawrence,7512e944-d4b,50975a15,Medicaid
+432ba250,abd88f22,Watkins and Sons,04fdb1eb-e2b,1a75d331,Medicare
+43303646,50c4dd21,Watkins and Sons,3a204805-0b4,fbc74cd6,Medicaid
+433eb20f,1e7c6964,George-Lawrence,17e4ab8a-34f,af0be26d,PPO
+436c2af6,8f72329c,Fernandez-Gregory,ba0602ce-c68,ea8f17b4,Medicaid
+43aa8f72,928abc80,Fernandez-Gregory,0727b78e-1f8,7a07c8f0,Medicare
+43c8ee8b,a0b63009,Watkins and Sons,15c72331-0be,4b093f76,HMO
+4405a159,564abebe,Watkins and Sons,4937accd-2d3,8001ba8d,PPO
+4470edaf,d6169441,"Gallegos, Gaines and Salazar",b012fd50-e57,43288f85,Medicare
+44a628ec,1bf3ea58,Lynch-White,c5f76ee1-08b,88b995d7,PPO
+44c23e95,b9ad3079,Lynch-White,fab162c7-da5,fd24f29a,Medicare
+4575e4bc,8c86dbeb,Watkins and Sons,5cdc89e6-42b,abc10f1e,Medicare
+45848c2f,6faaeb35,"Gallegos, Gaines and Salazar",d5476db0-991,68c581ed,PPO
+45e4b7c8,78cd375b,George-Lawrence,145ed218-a4a,f9bac9c0,Medicaid
+46342bfd,cfb0e6ee,Watkins and Sons,f7567803-f80,849d00b7,Medicaid
+469d2142,3665b0f2,Fernandez-Gregory,8c82a008-90e,18c18850,HMO
+470b4ebb,9a562750,George-Lawrence,79722944-f27,9b38c46b,Medicare
+47f2e06d,6d060a28,George-Lawrence,e1a90357-c2a,51663caa,Medicaid
+48252881,d76451c7,Fernandez-Gregory,866bc0ad-cf8,176f7a0b,Medicaid
+486f7bfb,cce4cefb,"Gallegos, Gaines and Salazar",bd66cdf5-83e,e99e2354,PPO
+48c1ff41,e07e4e58,George-Lawrence,29ea431f-cbe,4cb3d096,Medicare
+498686a5,8604aff9,George-Lawrence,9ac515ca-06d,a85b7ebc,Medicaid
+49b9211a,33120796,George-Lawrence,4f96d461-7c6,a3bd7753,Medicaid
+49f3ee10,1d75031c,Fernandez-Gregory,e586db26-619,99256add,PPO
+4b250c66,71f212a6,"Gallegos, Gaines and Salazar",80de7633-a10,cec46234,PPO
+4b33c982,659f9f0e,Lynch-White,732a7261-093,82027968,HMO
+4bb12551,20618bdd,George-Lawrence,a6c56893-41b,3eb09a2b,Medicaid
+4bfce0f0,10cbb25d,Fernandez-Gregory,3720e2ec-413,7712d557,Medicaid
+4d9b4125,acfb70e3,"Gallegos, Gaines and Salazar",55fc0512-c67,b827383c,HMO
+4eb26784,c609d9e3,Fernandez-Gregory,36093eb8-c46,f0fc6b6a,HMO
+4eb608e9,78443dea,Lynch-White,769fe6fb-387,abf8f584,HMO
+4f2f5cb7,a7d610fb,"Gallegos, Gaines and Salazar",380c8b11-788,a0f36ec0,HMO
+4f88f4c8,4ebd114c,Lynch-White,87ac0e75-8f9,6adc4d49,HMO
+4f9eb137,a4eaf18f,Watkins and Sons,72bb59bd-681,d176026b,HMO
+4fe45787,12c9c8fa,Fernandez-Gregory,32409cd1-c4e,74b0b9b6,Medicaid
+50607ae4,d6d6c58a,"Gallegos, Gaines and Salazar",73af5258-60a,9fa1c7fb,Medicaid
+51aa38e3,4cff178c,George-Lawrence,6657ed7e-55a,2416445f,PPO
+5270ccb8,97178dd7,George-Lawrence,7cea91d7-134,d06dfb35,Medicare
+52719d66,124d9ae9,"Gallegos, Gaines and Salazar",030c2232-cb3,c874af89,Medicaid
+52ff577e,573b05ed,Watkins and Sons,10c0c902-149,2dd27f69,HMO
+53137ef2,1992bc01,Watkins and Sons,43205077-6e5,304963a1,PPO
+534ecb75,7545726c,Watkins and Sons,7183ad58-318,9bd50d62,Medicare
+5393463b,8d9e6891,"Gallegos, Gaines and Salazar",1585f237-afa,a66f03d5,Medicare
+53e8a757,e1b0a2ba,Fernandez-Gregory,ae1bd59a-144,7315db88,PPO
+53fe64f0,2bbfedc6,"Gallegos, Gaines and Salazar",164198a7-299,8aa3e0dd,Medicare
+541fcdb0,0b24a5bb,Watkins and Sons,2b754f83-674,52e4429e,HMO
+544ecf91,5ca20c07,"Gallegos, Gaines and Salazar",d5497213-7eb,27c0ef30,Medicaid
+5468a188,9773a7e5,Lynch-White,d060c565-31b,72a5a612,Medicaid
+547eea08,be3f946b,George-Lawrence,d32e02d2-040,48ba2aa6,Medicaid
+54ddbc17,72e543f0,"Gallegos, Gaines and Salazar",3b7f561c-a94,b5baf33c,Medicare
+5538f63b,1631e3b2,Fernandez-Gregory,981333b4-1f1,0c826131,PPO
+56cc49b9,1aae0e6f,Fernandez-Gregory,d787bab4-561,8b8cfac5,Medicaid
+56ea3d55,b162dfd4,"Gallegos, Gaines and Salazar",9a33fdb6-367,379402f1,Medicaid
+56ff3fd6,d1160eb1,George-Lawrence,54ea5673-fab,d287813e,Medicaid
+57f32186,e6a916e3,Watkins and Sons,51b409f8-bd9,8637bf14,PPO
+592ceb2d,6e58856f,Lynch-White,3fbe356e-687,4bf53048,PPO
+59724ffe,6f741a5f,Watkins and Sons,15110560-7eb,59a2ebdd,Medicare
+598e4b07,3be57248,George-Lawrence,8eaf9cb6-4d4,d208b075,HMO
+5a906c82,1b1b818e,Watkins and Sons,406034ad-106,441b15e9,HMO
+5ae6c988,a379f9c8,Lynch-White,6968fac5-79f,678ef6d8,Medicaid
+5b60950e,381d39b6,Fernandez-Gregory,e886e4e0-2c6,b22575f9,Medicare
+5b71ef92,eae5971d,"Gallegos, Gaines and Salazar",e5f80461-a37,e6fa56a6,PPO
+5d3a833b,4a924acf,George-Lawrence,e6497bc8-769,2d85a85b,PPO
+5de98130,a0fd886f,Watkins and Sons,c7c99653-126,ef64ce3a,PPO
+5fb6875a,ce97c811,"Gallegos, Gaines and Salazar",b766ead8-b3a,adf7b1a3,HMO
+5fbff735,5a5833c2,"Gallegos, Gaines and Salazar",7c8285d6-72f,8347659f,Medicare
+60d3dc1c,43927c59,Lynch-White,ed7e7932-36a,33467808,Medicaid
+60db794b,479d3c35,Lynch-White,e9e938b5-889,b62713aa,PPO
+60e00784,c5d809aa,"Gallegos, Gaines and Salazar",4311d2a0-416,86520575,Medicare
+625fedfb,8fc64db4,Fernandez-Gregory,7c78b89e-c60,fcc98f11,Medicaid
+63201e13,dea150bb,George-Lawrence,fe05c56e-b98,3a9fa0fc,HMO
+6346ca21,b030c778,Watkins and Sons,285df015-a13,0f2d5f9b,Medicare
+639a9278,8a8c072f,Fernandez-Gregory,fc156348-444,629d7ed8,HMO
+65c9a806,84315bd5,Fernandez-Gregory,c8578580-b99,f12743ad,HMO
+66a67d0c,b638a54d,Fernandez-Gregory,c09590d7-1d7,9a045a50,Medicaid
+6770f309,56567e03,George-Lawrence,649aeb17-965,a00ddb34,HMO
+6779b72b,0201b931,"Gallegos, Gaines and Salazar",43ab16c6-37b,31eb0c0f,HMO
+682028f1,f7d80fe2,"Gallegos, Gaines and Salazar",762b6a3a-cc9,85cec67d,Medicaid
+68b889f4,5ab89652,George-Lawrence,8b531024-016,ef83e51b,PPO
+68f8e2e7,043a8827,"Gallegos, Gaines and Salazar",b2737676-d45,b71dc8b0,Medicare
+69207550,0fc8ce3f,Fernandez-Gregory,b9831c42-55e,663cc9b8,HMO
+695e7bb7,c788e5fe,Fernandez-Gregory,d9c9bdf6-b31,8520d5a2,Medicare
+69c67273,1ac219f5,Watkins and Sons,759f369b-869,ed21104a,Medicare
+69d6a8bc,a374ba2f,Fernandez-Gregory,82014840-9e4,8bf8d719,Medicare
+69e51e81,4bafaa93,Fernandez-Gregory,dbfb8398-f76,b460d0a2,Medicare
+69ff5676,787f9911,Lynch-White,fb7e2584-512,1ba03873,PPO
+6a3fc925,14114511,Lynch-White,98a01aab-6ed,846c0719,Medicare
+6a77a31b,86b1a6e9,Lynch-White,b99cf3a8-0ff,fe9955d5,PPO
+6ab74dfc,b937b397,Watkins and Sons,7cf47ad3-d49,2cc05e35,Medicaid
+6ace6465,a48960bd,George-Lawrence,87a9451a-bbb,1847d6fd,PPO
+6af47fef,0c3a5aee,"Gallegos, Gaines and Salazar",82a6f334-fe2,a7f31c7b,PPO
+6b0cdd9a,20138f09,Lynch-White,4ee6bc70-068,062ce16c,PPO
+6b8d3b0c,c43abc84,Fernandez-Gregory,31dbf90d-8e1,bf702e42,PPO
+6c367179,9b92c0b7,"Gallegos, Gaines and Salazar",53d2db1c-ae1,247a6449,PPO
+6d8ec22b,abf31781,Lynch-White,1e307e2b-722,c758ca16,HMO
+6dd8938d,5a8f0b5f,Fernandez-Gregory,d979fd30-449,a0f38803,Medicare
+6f3e1e8a,e4b47054,George-Lawrence,a79cc5b2-92d,1f547ed5,PPO
+6f7f9f49,f368d919,Lynch-White,1b1649b8-e2c,040217dd,PPO
+6ff2308c,ce467a09,Watkins and Sons,adb1d53a-6e1,96ae58c4,Medicare
+6ff95e7c,f0fc87c7,George-Lawrence,33af09ff-4d1,29b86ad2,Medicare
+700223d6,aa72ac56,Lynch-White,f8cc7bd3-317,65837ff8,Medicare
+703618d8,ae24e8c7,Watkins and Sons,a0ec9958-597,e13ad980,Medicare
+7071d62b,083c21f4,"Gallegos, Gaines and Salazar",33994cfb-269,faa146bb,Medicaid
+70873ea1,5f114941,Lynch-White,596e9461-fcd,3c28e939,Medicare
+7100f6b9,767acd52,Fernandez-Gregory,33228e7e-4e0,fcbcd945,Medicaid
+71595510,fd486cfc,Fernandez-Gregory,153d1ebd-50e,ea6caecc,HMO
+72559b34,25c0596d,Watkins and Sons,f0b46381-b6f,b7e26f8e,HMO
+736f39a0,35534e06,George-Lawrence,3ea51774-d24,8b3b34d2,HMO
+7505d9c4,4fd6395c,Lynch-White,387a04a7-a92,f2917d60,Medicaid
+753462a7,fd28bb2f,Watkins and Sons,953f642c-7b5,5cc92027,HMO
+757a65ec,44c85e51,Lynch-White,4ed33e28-491,1896fb39,PPO
+765d8e8c,9c129375,Fernandez-Gregory,ea7cbf9c-dea,19686f76,PPO
+77129fab,695c68b0,Lynch-White,1a0fef41-628,3d0f3935,Medicare
+77721439,94137d48,"Gallegos, Gaines and Salazar",2f5120f7-a0c,47da77b8,HMO
+783ed6cc,e77e62bf,George-Lawrence,7d75f344-ff7,fddc04cd,PPO
+786155f8,6efc9b07,Fernandez-Gregory,1d83eb30-f06,e7fcc62f,Medicaid
+78d89411,64378a07,Lynch-White,d5b39577-ead,dad1ac08,HMO
+78ee10c5,21f33f0c,Lynch-White,50ce3696-780,afc2c49b,PPO
+79036918,aefd3c0c,"Gallegos, Gaines and Salazar",6744c30e-7de,d8117234,Medicare
+795672dc,202b8789,Watkins and Sons,4f0fabde-a12,4d68a84e,PPO
+79605224,37fdfce0,Lynch-White,a9e3aa28-a43,1895a9d9,PPO
+79a349b1,fbc87eed,"Gallegos, Gaines and Salazar",0cf74db0-ddf,05e75175,Medicare
+79dc744b,db33b88e,"Gallegos, Gaines and Salazar",7421f427-c9a,4bb2fc7b,PPO
+79f4b9c2,87191c78,"Gallegos, Gaines and Salazar",ed0eb3ae-487,9afc82ef,Medicaid
+7b0f83a9,e87efed5,Fernandez-Gregory,c30121aa-074,b89c5a73,HMO
+7b1a82e9,9c6e5a9d,"Gallegos, Gaines and Salazar",7d4168db-5e3,0485c833,HMO
+7b356a27,7ea64fa1,Watkins and Sons,aef0ae97-fe1,80f974e2,Medicaid
+7b7a3bce,4b8a161e,Lynch-White,54494d1b-267,e382452e,HMO
+7ba01af5,3dddfcfa,George-Lawrence,7a18ee4f-548,27129845,Medicaid
+7ba7b2ee,571f7b73,George-Lawrence,255ebcc0-420,6a7af545,PPO
+7be27bc5,cf64c685,Watkins and Sons,ba0794db-c36,0c540003,PPO
+7d14e2ad,2fdb91bf,Watkins and Sons,4d5ac2d9-099,efeca242,Medicaid
+7d28294c,de8cf146,Fernandez-Gregory,575b4284-129,d38c043f,HMO
+7dcb5614,8f47aac3,"Gallegos, Gaines and Salazar",3153abea-606,327109b5,Medicaid
+7dd14491,aabc9d4c,George-Lawrence,048498bf-262,c4038832,HMO
+7f2b5d1e,8e3cebe7,George-Lawrence,a074f539-c0f,dfbb02e3,PPO
+8053b275,dc3effec,"Gallegos, Gaines and Salazar",53100442-09e,35770d34,HMO
+81d6e7bc,5578784d,"Gallegos, Gaines and Salazar",66f5b942-064,f3a70db1,PPO
+81dda955,6c3398ac,Fernandez-Gregory,3427b543-af7,20f54881,PPO
+8241bedc,13a6b94a,Watkins and Sons,84e33d48-b59,53d6f295,Medicare
+824c7e0b,cce1a0f1,"Gallegos, Gaines and Salazar",cc8d7ebc-36c,646e2f40,Medicaid
+8253144b,4481815c,George-Lawrence,95e7f77b-a5a,b019df45,Medicare
+82c5cce5,582f3401,Watkins and Sons,785950fa-e53,98732a52,Medicaid
+8307c409,d47bed72,Watkins and Sons,5e924343-44f,5377a3f2,Medicare
+83a31de7,44422c1f,Fernandez-Gregory,096d9c68-fab,35cc21aa,Medicaid
+840d89c4,71fc49e0,George-Lawrence,f6d20baa-2f7,91d4bab7,Medicare
+84130ab9,3f4917c7,Watkins and Sons,276d07d2-52c,07a64d5a,Medicare
+846b4565,6d107c83,Fernandez-Gregory,b128fdba-c40,6558c063,HMO
+84938a12,e2f3530c,George-Lawrence,19742459-a3a,89107fb7,Medicare
+84f3d9a6,37d50cb1,Watkins and Sons,9121e969-e45,00fe8b41,HMO
+85462b4c,b759a8f1,"Gallegos, Gaines and Salazar",3d8844a1-a70,63a352c0,HMO
+85b367ec,47f53106,George-Lawrence,3697b2bd-f62,278e54ba,HMO
+85c645c0,903f0804,Fernandez-Gregory,7f85f6f6-864,0e8733ca,PPO
+85e191b0,bfcd8b81,Watkins and Sons,b0e8503e-c32,4e56dfe4,Medicaid
+875dcfab,64bba93a,Lynch-White,d18996b7-a6d,b9fb5361,Medicaid
+877994af,331241a9,"Gallegos, Gaines and Salazar",1eab2154-981,800458c3,PPO
+87eea006,c32818b9,Fernandez-Gregory,08efc395-bcc,e01a4731,HMO
+87f5ebda,e168e10a,Lynch-White,0e5d114f-059,bc6fa4c0,PPO
+88ed98ec,bf020188,Fernandez-Gregory,05ffcc5b-6d9,4c3335d3,Medicare
+890e44a1,b49269ea,Fernandez-Gregory,132d249a-a34,720bebc4,HMO
+89b7ad4f,a630a32e,Watkins and Sons,10b78601-796,fbb1fed5,HMO
+89d35479,7dbb5c86,Fernandez-Gregory,5a5c8224-891,13aa8046,HMO
+89ffb87b,fcb7e4cb,Lynch-White,aa0feca4-ae0,1ec028c5,PPO
+8a265676,2ca028c0,George-Lawrence,314b2a9f-d87,3f74269d,PPO
+8a5b9dfe,2bd8cdc6,George-Lawrence,701f3850-7ef,76c3ca0f,Medicare
+8a9c40ef,9f4a6314,George-Lawrence,cf94edb9-ab0,6db7cf67,Medicaid
+8cc4a220,a50c0322,"Gallegos, Gaines and Salazar",25128138-1bc,4db199ac,HMO
+8cd033ea,d869c548,George-Lawrence,96cd0dfc-798,96cf6c9f,Medicaid
+8d2ab3dc,2815a180,Lynch-White,f9631ca2-544,74914134,Medicare
+8d70064d,481de048,Fernandez-Gregory,d9504167-075,ca944d9e,HMO
+8f4a8d44,e260cef4,Watkins and Sons,02139fed-d86,1e12e27d,HMO
+91fb0daf,c85c9dda,"Gallegos, Gaines and Salazar",d966c968-f41,b95d62ea,PPO
+92d83928,b4a31548,Fernandez-Gregory,6d60ac88-b62,979b06d0,PPO
+93144daa,2c7e1e2f,George-Lawrence,b50b10df-48a,080158c3,PPO
+93d406b0,6f98aad9,Fernandez-Gregory,18909df1-07e,677611ed,Medicare
+93f5f562,9204cb51,Watkins and Sons,86ecf092-eb7,50632f8f,HMO
+93f633b0,151ee682,"Gallegos, Gaines and Salazar",fe75439b-218,dd1d2626,Medicaid
+9410622f,13de0547,Lynch-White,276fbf65-9a1,267ec704,Medicare
+9621cc4d,3c31752c,"Gallegos, Gaines and Salazar",70ff4a84-625,c5ce4d9c,PPO
+964eeab7,480275a7,Lynch-White,ef046ae6-fd9,2ee97333,HMO
+96b5711c,2b597fda,Lynch-White,a8688f11-3d2,035a42a3,Medicaid
+971a1a00,675705ae,Lynch-White,d6ea7d6f-ba2,0836a522,HMO
+9771334a,84120b7e,George-Lawrence,1ece2269-7e5,393ab47f,Medicare
+97786c3a,3f1a6e17,George-Lawrence,44a6900a-31a,4769925d,Medicaid
+97f8da5d,bb94fef2,Watkins and Sons,f8878c6d-4ec,7237093a,PPO
+9806781d,cca04525,"Gallegos, Gaines and Salazar",621b1a8b-8a7,d6d345cf,PPO
+98616f38,ec97d491,Watkins and Sons,518a737e-03b,de1a0ec0,HMO
+9a2084a1,03c2d836,Fernandez-Gregory,11ab38ee-58b,d099c396,PPO
+9b8c7587,ae7c836e,Watkins and Sons,11f5c05c-114,28a0c080,Medicare
+9d978a7f,42337722,"Gallegos, Gaines and Salazar",71981bbe-513,7ad7b5c3,Medicaid
+9d984870,2ddd152b,"Gallegos, Gaines and Salazar",8ceb19ec-757,2073055e,PPO
+9e19d844,7f2f55e6,Watkins and Sons,cd3ba0e4-5dd,6b1c27e8,PPO
+9ec5d184,00795c7a,Fernandez-Gregory,6cac0e5b-910,42dd2e6a,Medicare
+9f686e5d,b75e5374,Fernandez-Gregory,fb80067f-925,ffc22b28,Medicare
+a2008c36,4b29ff3b,"Gallegos, Gaines and Salazar",84242f48-416,be9160b9,PPO
+a2033757,fdc65447,Fernandez-Gregory,6174478a-6c8,d5d3444f,PPO
+a2411754,daee052b,Lynch-White,356339d9-649,7959cf67,PPO
+a2a7896f,9a4a59fe,George-Lawrence,8e5dfeca-8e5,aa02f3ef,Medicaid
+a32d3551,d232e60f,"Gallegos, Gaines and Salazar",eb032f0d-4c2,70810068,PPO
+a400a3c3,39a24d01,Lynch-White,98e2b151-058,543909ce,HMO
+a42b5c09,a8b30f1a,Lynch-White,52855495-bdd,b83e4f17,PPO
+a431a06b,7bd767d6,Watkins and Sons,216151b3-f1a,a342f28f,Medicaid
+a457e081,73181678,Watkins and Sons,5c583005-9b2,bcedf84e,Medicaid
+a4a53299,22f75322,Lynch-White,6242bff2-454,a032ba33,HMO
+a4f0733b,e3d9f83d,Lynch-White,cf988779-3a2,e5bcf03d,PPO
+a519192d,7ea7428e,Lynch-White,28bda400-785,2cbadb2c,HMO
+a6775846,a790f978,Lynch-White,3b1a6a68-444,b2565058,Medicare
+a75550da,0fc15455,George-Lawrence,169cc0b5-463,0821cf69,Medicaid
+a8169711,176a73da,Lynch-White,5398733e-34a,ec32fb29,Medicare
+a828313c,e85f706b,Fernandez-Gregory,2f28929d-2bd,b1910713,Medicaid
+a834e0c5,bce629ea,"Gallegos, Gaines and Salazar",5df1bb48-b87,795033b3,Medicaid
+a8583035,f49c9e9a,George-Lawrence,5cb3538f-0f6,a0365f55,PPO
+a918762d,a9416439,"Gallegos, Gaines and Salazar",aa5f7c7f-57c,1121ead2,Medicaid
+ab0c08a6,c3945aaf,"Gallegos, Gaines and Salazar",29aaa430-b14,12b0d873,Medicare
+acb65062,26204391,Fernandez-Gregory,7931b08e-e30,4d5a09a7,Medicare
+ad01bc01,6dec6891,Watkins and Sons,f3049f01-b5e,091f7113,Medicaid
+adb26983,ca3a605f,Fernandez-Gregory,7a4f127e-b89,782fec25,HMO
+add02976,d3541ed8,Lynch-White,5cadbd5e-ec2,462702e2,Medicare
+addbe1a1,bc66b468,"Gallegos, Gaines and Salazar",c64fb9a3-05c,e2346749,PPO
+adea1c34,30e174f7,George-Lawrence,3e490c65-d93,f373d5c9,Medicare
+adfe6b4f,7151846a,Watkins and Sons,8720a7a6-0e8,2ea3d3d5,Medicaid
+ae283529,3af9da65,Watkins and Sons,3368b49c-d97,acf6e31c,Medicare
+ae907d5c,6eab73ed,George-Lawrence,b0a9e9e0-787,29f98bfa,HMO
+aec66880,33423386,Lynch-White,ae52bee5-b57,24c00865,Medicare
+b0037011,365e5549,Watkins and Sons,579ea0af-4fc,78f2cda4,HMO
+b09fc872,74d582d3,Fernandez-Gregory,ea39cfc6-568,7f41f53f,Medicaid
+b168693d,d6c8e2eb,Watkins and Sons,cd4656a6-05f,24b0d7a9,PPO
+b281eb3f,d9376322,Fernandez-Gregory,c4e810df-30d,1f08d2a4,HMO
+b2ca29f9,9d09f197,Lynch-White,8e54a315-3b2,13517ade,Medicare
+b43c508a,854f9fd6,George-Lawrence,fae5d2ec-0e1,976670ae,Medicare
+b4b04b71,ea59788e,"Gallegos, Gaines and Salazar",c5d5295b-42b,4173d870,Medicare
+b517b0f5,82819fa4,Watkins and Sons,d6f74dec-fb4,ecebbcf0,HMO
+b57326b7,bda8cda5,George-Lawrence,ac382c37-90a,1381ef74,Medicare
+b5c483ec,f827e32e,"Gallegos, Gaines and Salazar",b31a7f92-523,1dd21746,HMO
+b65f81f8,ecc1790a,Watkins and Sons,1387e5df-d82,840ff040,Medicare
+b661a181,dd81434a,George-Lawrence,15f3ac14-1c5,66d7a769,Medicaid
+b691c77e,59dc2b88,"Gallegos, Gaines and Salazar",b4b45ddf-fd4,ae4426e4,Medicaid
+b6c83b61,4277e4b5,Lynch-White,5cc1053e-741,798b1e54,Medicare
+b7493b39,e8bfa8f6,"Gallegos, Gaines and Salazar",9437e2e8-7a2,bd20f54a,PPO
+b86bf16b,0525ce8c,Watkins and Sons,86f76168-b9d,ac4c26ca,PPO
+b8f29dd9,df6232cf,Watkins and Sons,7c636356-2e9,c6c2f58d,Medicare
+b9b38ffa,374d840c,Fernandez-Gregory,75015646-332,02993cd4,Medicare
+b9b8fd37,58580816,Lynch-White,52cb01cb-f8a,bba29462,Medicaid
+ba006887,08ded5d7,George-Lawrence,509cfaa1-af9,b314af3d,HMO
+ba3ed73f,122b4374,"Gallegos, Gaines and Salazar",041ff63d-8c0,45f5f55c,PPO
+bad663a8,90e2a77e,George-Lawrence,2720163d-9e7,5948c3a8,HMO
+bb6b4602,a9077d35,"Gallegos, Gaines and Salazar",b35bd9cd-60f,feea4ef7,Medicare
+bb75d283,d7301e70,Fernandez-Gregory,9a688781-c81,6e97e114,HMO
+bbc3da55,4f7c3861,Lynch-White,aeafe03e-3e8,0ff6c793,PPO
+bc79d5ca,dab95885,"Gallegos, Gaines and Salazar",967ed75f-b5e,2e63d039,Medicare
+bd3456d4,c5916cf5,"Gallegos, Gaines and Salazar",72d0d5bb-f50,3269184c,Medicare
+bda36b98,cd1ea358,Lynch-White,33a46fad-a62,0ce90a6d,PPO
+bdcf2ccd,54be9290,George-Lawrence,16cdb94f-04f,c8d65d0e,Medicare
+be49a64c,0b717988,"Gallegos, Gaines and Salazar",a66abb34-9d6,b7e1a8b8,Medicaid
+be4b3d3a,12eab870,Watkins and Sons,db7c30ee-e08,4ff19689,PPO
+be5152b7,a135d062,Lynch-White,26bc05e7-7e6,2b4edb93,HMO
+be5c1c6e,6297587f,Lynch-White,400a780d-3c8,f9e1d4a6,HMO
+be746a55,2ed4637b,"Gallegos, Gaines and Salazar",db4e11f3-d6f,159c5fc4,PPO
+bf25a8e5,6b07da23,"Gallegos, Gaines and Salazar",5d6654a6-1f0,70b6dbc2,HMO
+bf5dc388,89b72540,George-Lawrence,8f5da2da-46f,1c2ec3c0,PPO
+bfa028f6,e8d1f961,Fernandez-Gregory,cfd282e3-cf9,9432859f,Medicare
+c1d41456,04b95c0f,Fernandez-Gregory,dc76fad6-96d,fc85c692,HMO
+c29d8b45,eae707f7,Fernandez-Gregory,1835bdf0-e34,75c34cfc,Medicaid
+c2fac1fd,096bf201,"Gallegos, Gaines and Salazar",5a5b86d5-a38,edd08bb9,Medicare
+c3351a06,d0c780f9,George-Lawrence,0b12dcf9-089,267631b9,Medicare
+c3c3a1f1,04ca5be2,Lynch-White,7946e04f-4c1,b282fbae,Medicare
+c44a241b,d036bb7e,Watkins and Sons,38d7352f-0e2,76acd271,Medicaid
+c4690563,31408bc6,Watkins and Sons,475b1d84-a25,bad087e7,Medicaid
+c4d2afe4,059187bd,Lynch-White,ecb34282-113,fed46e49,PPO
+c4ed2b0c,c94f7522,Fernandez-Gregory,11e3275c-67c,75087fa1,HMO
+c4f54295,be266d53,Fernandez-Gregory,8cace234-eea,c427d5ea,Medicare
+c518df2d,0ee7297d,Lynch-White,0e783d50-d3d,70f563e7,Medicare
+c537a192,8b766c0a,Lynch-White,1eef4eb5-505,a5520c23,HMO
+c64f762a,b247a3a4,"Gallegos, Gaines and Salazar",0dfca3fa-462,234a136f,PPO
+c675d5b7,61d076eb,George-Lawrence,07383f6d-d26,7c729e5a,HMO
+c6e2bc68,57887163,Lynch-White,7ed426dc-2d5,55b144ca,HMO
+c80de820,187e348e,"Gallegos, Gaines and Salazar",bd9c9027-3ca,86e75273,PPO
+c91fc887,5051056e,"Gallegos, Gaines and Salazar",ffcb297a-7dd,21548a87,HMO
+c92983a5,a05ebf62,Lynch-White,ad328647-a92,954af339,HMO
+c953ae74,6d4e016f,Fernandez-Gregory,136e66af-d15,c023517f,HMO
+c9ec42fe,eba4e253,Watkins and Sons,a5539869-d85,f5fbfaf5,HMO
+ca186f10,1ad6d5ca,George-Lawrence,aa318dd4-e0b,c8f18af0,PPO
+caa9973a,49f3ce7d,George-Lawrence,521eee30-666,bac2f8fc,Medicaid
+caf6ee21,34c74a44,George-Lawrence,82dce4f1-f3c,f6eb1a96,Medicare
+caf8ca3b,5983093d,George-Lawrence,28fe3466-6fe,40a1513c,Medicaid
+cbec6a65,2eeb1243,Watkins and Sons,73030350-b71,21eb9de4,Medicaid
+cc0ec721,08355795,"Gallegos, Gaines and Salazar",b9764774-da7,e76390ce,PPO
+cc407fe4,4b0bd23c,Lynch-White,d41a07d9-bbc,a5719841,PPO
+cc741151,e80cb661,Watkins and Sons,9e7db693-8f0,5f94dabc,Medicare
+cd2d5cb7,94709965,Lynch-White,02b6fc30-777,a923ce9a,Medicaid
+cd304356,9f3d8e72,Watkins and Sons,8be1c5ff-38a,d40d119b,Medicaid
+cd560bf6,63cc6d09,Lynch-White,3045f612-ffb,cac5ccc0,HMO
+cd939215,f4b9fc43,"Gallegos, Gaines and Salazar",85fbb0aa-005,baad341c,Medicare
+cf19620b,32b7190f,George-Lawrence,5525036b-6b2,7d6235ee,PPO
+cfa420b9,8359915f,Watkins and Sons,3dd3307d-063,e30ba9cc,PPO
+cfaa8392,dcf2996d,"Gallegos, Gaines and Salazar",a17b9436-98f,ccc33533,Medicare
+cfc6964f,a55a3cc0,George-Lawrence,b42bbc81-e45,45d3c2ec,Medicaid
+cfeeb0fb,e514e550,Lynch-White,f664b393-bb8,235b945c,HMO
+d0604c22,257f9989,Lynch-White,6dbac4a4-d31,163d2ed8,Medicare
+d11eb360,6dce72e0,"Gallegos, Gaines and Salazar",4e421879-740,ac75d3d8,PPO
+d12ad201,5736c7c1,Watkins and Sons,4b430081-60a,31e06a78,Medicare
+d1f1515e,325e6af4,"Gallegos, Gaines and Salazar",23649813-52f,95822850,PPO
+d2036641,fd005646,George-Lawrence,2c929f76-0be,41af2c82,Medicaid
+d29cef3c,eda4d871,Fernandez-Gregory,41071774-55a,50e3708b,HMO
+d2b4eeb4,2d00edf7,Watkins and Sons,d05c23bc-6d8,295b8a01,HMO
+d2dda4e6,80d8de56,Lynch-White,9edbf0b9-037,7f13b37b,HMO
+d2e4ea64,e0700370,Lynch-White,cd086c94-397,29649e34,HMO
+d30b1aca,ea873200,Watkins and Sons,591325a7-776,01bfd662,Medicare
+d30ed5f3,eb202c2a,Lynch-White,777e5513-f48,107552b0,HMO
+d35377f6,d261635f,George-Lawrence,b599b57d-373,d486b0f5,HMO
+d44c1e48,8f33543f,George-Lawrence,e4ccea23-1e9,d611c83e,PPO
+d52f3164,43ed140f,George-Lawrence,9ecb101c-80d,1e1aac56,Medicaid
+d5940aa6,90d5b4ed,Fernandez-Gregory,19c3ce67-58f,30d6e9b1,Medicare
+d5f40923,70eca95a,George-Lawrence,c6d1a76b-a1c,f63d90a9,Medicare
+d624de65,ea669846,"Gallegos, Gaines and Salazar",4ed80336-931,7b499a9a,PPO
+d7339569,ca3ce345,Lynch-White,d8219501-323,416aab72,Medicare
+d76a8a76,17459873,George-Lawrence,ea93667b-0d9,c7f3c65e,HMO
+d79cae5b,1cb27c7b,Watkins and Sons,86071df2-0c9,4cc121c7,Medicaid
+d7fc90b8,98522392,Watkins and Sons,f1aa8e6b-d9d,08c2cb09,PPO
+d8c5db1d,b59d3795,Lynch-White,29a246a8-a0a,9c4790fe,Medicaid
+d971d83f,ad6203f0,Lynch-White,b9ae5674-a16,0719e468,Medicare
+da106d60,ca63648b,Fernandez-Gregory,d6eaa087-aec,90d8a4e7,HMO
+da4c51b2,08fa4d34,Fernandez-Gregory,a078c421-b41,e8ea2707,Medicaid
+da8fd935,68357600,Watkins and Sons,6d5667e4-88c,0fef7f6c,PPO
+db7f7c7c,445a9c67,Watkins and Sons,fc2d6a61-a10,edb7ba60,HMO
+dbe0c767,efc625e5,Fernandez-Gregory,2638c48a-2fe,d25c6140,HMO
+dc4c482a,7e4600df,Lynch-White,943fd68f-001,453e0f1a,PPO
+dc748e0f,8f3de092,"Gallegos, Gaines and Salazar",b18c357a-f26,6b946d05,Medicaid
+dcfaf1d7,bed481f6,"Gallegos, Gaines and Salazar",42578e5d-c7a,09b3d5dc,PPO
+ddf78e5f,019b2363,Watkins and Sons,ef13d894-132,ecb8fabb,PPO
+deefb7cb,a0171479,Fernandez-Gregory,00131922-bc0,0c7b7109,PPO
+df54ce6b,3bfbfe4c,Watkins and Sons,3aec6ae8-97a,32d081f1,PPO
+e11e8fbd,84cc7458,Lynch-White,49fb17d8-eef,8852b178,PPO
+e1202612,6acbd5a4,George-Lawrence,cfcfdeb2-983,cd75a54e,HMO
+e14d7520,8036fcd8,Fernandez-Gregory,dacb76c0-fdb,71a0f6f9,PPO
+e1ade7b2,63b96b08,Fernandez-Gregory,212d11c4-734,d827a5b8,Medicare
+e1c2b573,d39630da,George-Lawrence,8b26626c-aa2,7f82c173,Medicare
+e27e990f,dc887e78,Watkins and Sons,89317080-160,d5c7fce2,PPO
+e2be4d36,e52a9228,"Gallegos, Gaines and Salazar",986564d0-9a6,63f09eba,Medicare
+e2bfab5d,81a6ec18,Lynch-White,ff3e8761-9d5,47fc07e3,Medicare
+e3e23df6,bc78a686,"Gallegos, Gaines and Salazar",b78721ee-5d2,b2111703,HMO
+e4bd7190,bf0b0947,Watkins and Sons,3d31619e-51c,0d014ed0,HMO
+e4e307cc,44b29432,Watkins and Sons,5714e11d-805,9c806bdb,Medicare
+e4f8900f,47d79424,George-Lawrence,98419bac-2f1,ab6a80cf,HMO
+e51a4807,7e703868,"Gallegos, Gaines and Salazar",e48bbba5-78e,c833cf29,PPO
+e5652499,1dcde38a,Fernandez-Gregory,539304ee-feb,2bf8e48a,Medicaid
+e581dccc,2750d92c,Watkins and Sons,4f4d8a9a-ffb,cdb42f7f,PPO
+e581e580,84d8aad7,Watkins and Sons,415fa525-2ad,cadd36f8,PPO
+e5bd72a3,84db666d,George-Lawrence,1bfdea20-2d9,cef8ff91,HMO
+e67eaf73,f9260f70,Lynch-White,97c1b7c5-803,3c9abaf3,PPO
+e6ffd516,0ef8a33b,George-Lawrence,165f4741-f18,4b231a49,Medicare
+e74f7dff,091716c1,Watkins and Sons,562c1819-207,37eb473e,HMO
+e783c6c1,a1187ca1,Lynch-White,d2cc27d5-e41,e7b3b03c,PPO
+e7c98adc,1e86f65a,Lynch-White,1b5bd14a-0dd,a524066b,HMO
+e7cf6299,9ca6d47e,George-Lawrence,4895aa81-27c,15e392e9,HMO
+e800cf02,1e0e4f72,Watkins and Sons,5281610f-63a,f0863d96,HMO
+e82a7cc4,305f0030,"Gallegos, Gaines and Salazar",ff04c58f-d7e,0de4a935,Medicaid
+e861ee79,a842a330,George-Lawrence,7cbccb9c-556,ee0af570,Medicare
+e86b9536,8a541cb3,George-Lawrence,f2fe5e4c-6e5,59852431,PPO
+e870cfdc,529cfcd8,Watkins and Sons,49f94d00-58e,59d6cd2a,HMO
+e8cfe8e3,84072e0f,Watkins and Sons,b0d384a3-c0e,3c4ed180,Medicaid
+e989b5e9,1565e608,"Gallegos, Gaines and Salazar",df2f17f5-921,be1697b7,PPO
+e9b7cea2,f14c5a9e,George-Lawrence,3bf4ee88-465,863b4f3b,Medicaid
+ea425544,741f60dd,Lynch-White,9f6b8348-88c,41aefa2e,PPO
+ea49f77a,edd142b3,George-Lawrence,b9c6ca98-666,7fa2df0f,PPO
+ea7e7472,e831ece2,George-Lawrence,2ec2f306-b9c,118613b8,HMO
+eb88180b,4ade44c5,"Gallegos, Gaines and Salazar",feb26e5d-feb,725af152,Medicare
+eca4ba8a,b430c831,George-Lawrence,c3fe0c2f-3ae,fc935e1a,HMO
+ecd20139,5c30c85b,Lynch-White,48aa9ab9-4c1,5c7f00d3,PPO
+ecdecee6,1e434061,George-Lawrence,1da9fd44-fca,7820109c,Medicaid
+ece21a97,be2c91d2,Fernandez-Gregory,7995405d-e2d,29625693,Medicaid
+ecf9a4e7,5a11447e,Lynch-White,c60d5c5d-316,d9d38d9c,Medicaid
+ed19f7c0,22ed4d8f,Watkins and Sons,e7958d5b-849,b84ec29d,Medicare
+ef5d4a81,a32e4824,"Gallegos, Gaines and Salazar",7d48a518-780,23cb834c,HMO
+ef97b25d,acb34689,Lynch-White,2c77cc11-9ed,b018a200,HMO
+ef9cba3d,dbd4f91e,Fernandez-Gregory,0c1fa47d-f8b,f8f87468,Medicaid
+eff87e8f,c7228cc4,Watkins and Sons,37745113-d57,d48fd388,HMO
+f0f6e3b5,d9d202b1,George-Lawrence,f6785bc3-0ad,06c8e6df,Medicaid
+f1648b07,6f551157,Lynch-White,c504046d-948,f17d3de0,HMO
+f1c31321,e25a8d64,George-Lawrence,0cdf5b36-337,506cca13,Medicaid
+f2b38b1a,b3c553fe,Fernandez-Gregory,ffb52692-c54,0aa8ad28,PPO
+f334a8ee,00f99982,Lynch-White,a6fb2b1b-be3,1c0e5efa,HMO
+f39399f3,15ff4c6a,Lynch-White,693fd407-9cc,42cf5656,PPO
+f3a960b4,9d5a315f,Watkins and Sons,992da468-d32,4ecfc22f,Medicare
+f3c63877,897e6c14,Lynch-White,54f8b833-399,8c212d60,HMO
+f4bc7824,40d9bd16,"Gallegos, Gaines and Salazar",abb12761-940,8087a0eb,HMO
+f4fbf5e9,1c7f46ca,Lynch-White,90e5ac21-756,da7e50d0,PPO
+f50ce38b,724a0239,"Gallegos, Gaines and Salazar",f9ed5b82-cff,d8a682fd,PPO
+f5d7bb63,9c3fecb5,Lynch-White,4be86f50-60c,4e0b1af8,Medicare
+f678aa23,8940fb1a,"Gallegos, Gaines and Salazar",d773aecf-91b,676ac220,PPO
+f7cb59c8,097956cb,Lynch-White,8b10c2d2-9f1,7324287f,Medicare
+f801b241,2ba5a0bc,"Gallegos, Gaines and Salazar",56acc46c-ddd,5f2ae9ff,Medicare
+f83c9260,fc14ff4c,Fernandez-Gregory,4ae6eeed-a9b,74a847b0,Medicare
+f8b21407,4d67a233,George-Lawrence,de1903a5-827,98dd2ee1,PPO
+f8b3054e,39db43dd,Watkins and Sons,61bd5a98-3ea,decc6ec5,Medicaid
+f928f048,cb9a38a2,"Gallegos, Gaines and Salazar",79d0e602-36f,99fd8dd8,Medicaid
+f9658ebb,10c28aeb,Fernandez-Gregory,e43d1ee5-8f3,59e5d8af,PPO
+f96d32eb,6e867596,Lynch-White,e085e1fe-f7e,ade544a1,Medicaid
+f9807dc1,d05d96f9,George-Lawrence,b75a0b54-458,3e136ecb,PPO
+f9f655f5,7e259608,"Gallegos, Gaines and Salazar",ce605854-469,43b6ab29,Medicare
+fa233d30,9aea3171,Lynch-White,1613dfeb-093,1fe9d58f,Medicaid
+fa503033,4991c24b,Watkins and Sons,3885a96b-f00,06a7174f,Medicaid
+fabd727a,ac9b8c5b,"Gallegos, Gaines and Salazar",e1212495-eb9,d61ef11b,Medicare
+fac5b778,e09730d8,"Gallegos, Gaines and Salazar",346a0317-625,64778fbf,Medicare
+fb2134db,8f874336,Watkins and Sons,8ed1e513-6f5,d0bcf2cf,PPO
+fb3f549d,851105c5,Watkins and Sons,e74d1c86-764,f00d9258,PPO
+fc1ee443,e6172513,"Gallegos, Gaines and Salazar",695dc4f8-63c,7ee246b3,Medicaid
+fc5f63f0,02b70773,Lynch-White,24d311f4-c48,604085ca,Medicaid
+fcb0168e,be7d1eda,Fernandez-Gregory,7625f39f-c4c,150af95a,HMO
+fd68b45e,bf28d8dc,Lynch-White,1681e08f-da4,f552938b,Medicaid
+fe88b152,4505075f,Watkins and Sons,dc9c4573-be9,f56725dd,Medicaid
+fec7162f,ea512c87,Fernandez-Gregory,f765e1fb-f16,ccb98d3a,PPO
+fed3653d,47ecd864,"Gallegos, Gaines and Salazar",9d03dd58-92e,5279db27,Medicare
